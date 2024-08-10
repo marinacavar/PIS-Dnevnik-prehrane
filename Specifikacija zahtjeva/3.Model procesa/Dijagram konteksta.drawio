@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2024-07-24T14:10:03.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XmqX9u1a0LQ_hkcEhQdH" version="24.7.1" type="device">
+  <diagram name="Page-1" id="LvmHybB-pSjlgCu5tRCt">
+    <mxGraphModel dx="840" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-R456dAzKDUjYlajnxBs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-1" target="-R456dAzKDUjYlajnxBs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-9" value="Podaci o korisniku,&lt;div style=&quot;font-size: 9px;&quot;&gt;podaci o obrocima,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;nutritivne informacije&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-6">
+          <mxGeometry x="-0.0341" y="2" relative="1" as="geometry">
+            <mxPoint x="-52" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-1" target="-R456dAzKDUjYlajnxBs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-17" value="Zahtjevi za pohranu i dohvaćanje&lt;div style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;korisničkih podataka,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;unosa o obrocima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;nutritivnim vrijednostima&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-15">
+          <mxGeometry x="-0.0722" y="-1" relative="1" as="geometry">
+            <mxPoint x="-2" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-1" target="-R456dAzKDUjYlajnxBs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-21" value="Zahtjevi za nutritivne&lt;div style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;informacije&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-19">
+          <mxGeometry x="-0.0435" y="1" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-1" value="Dnevnik prehrane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-2" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-8" value="Unos korisničkih podataka,&lt;div style=&quot;font-size: 9px;&quot;&gt;unos podataka o obrocima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;pregled dnevnika prehrane&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-7">
+          <mxGeometry x="0.0004" y="3" relative="1" as="geometry">
+            <mxPoint x="73" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-2" value="Korisnik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-10" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-12" value="Upravljanje korisnicima,&lt;div style=&quot;font-size: 9px;&quot;&gt;upravljanje podacima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;održavanje sustava&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-11">
+          <mxGeometry x="-0.0046" y="1" relative="1" as="geometry">
+            <mxPoint x="67" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-10" value="Administrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-13" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-16" value="Pohranjeni korisnički podaci,&lt;div style=&quot;font-size: 9px;&quot;&gt;podaci o obrocima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;nutritivne informacije&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-14">
+          <mxGeometry x="0.0961" y="2" relative="1" as="geometry">
+            <mxPoint x="-14" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-13" value="Baza podataka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-18" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-22" value="Nutritivne informacije" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-20">
+          <mxGeometry x="0.02" y="-4" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-18" value="Nutritivni API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

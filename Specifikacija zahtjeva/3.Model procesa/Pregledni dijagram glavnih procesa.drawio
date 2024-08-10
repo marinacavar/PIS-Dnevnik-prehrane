@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" modified="2024-07-24T14:46:00.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rkLktU4_ZNQq61ruvzJq" version="24.7.1" type="device" pages="2">
+  <diagram name="Page-1" id="LvmHybB-pSjlgCu5tRCt">
+    <mxGraphModel dx="840" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-R456dAzKDUjYlajnxBs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-1" target="-R456dAzKDUjYlajnxBs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-9" value="Podaci o korisniku,&lt;div style=&quot;font-size: 9px;&quot;&gt;podaci o obrocima,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;nutritivne informacije&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-6">
+          <mxGeometry x="-0.0341" y="2" relative="1" as="geometry">
+            <mxPoint x="-52" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-1" target="-R456dAzKDUjYlajnxBs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-17" value="Zahtjevi za pohranu i dohvaćanje&lt;div style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;korisničkih podataka,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;unosa o obrocima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;nutritivnim vrijednostima&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-15">
+          <mxGeometry x="-0.0722" y="-1" relative="1" as="geometry">
+            <mxPoint x="-2" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-1" target="-R456dAzKDUjYlajnxBs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-21" value="Zahtjevi za nutritivne&lt;div style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;informacije&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-19">
+          <mxGeometry x="-0.0435" y="1" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-1" value="Dnevnik prehrane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-2" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-8" value="Unos korisničkih podataka,&lt;div style=&quot;font-size: 9px;&quot;&gt;unos podataka o obrocima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;pregled dnevnika prehrane&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-7">
+          <mxGeometry x="0.0004" y="3" relative="1" as="geometry">
+            <mxPoint x="73" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-2" value="Korisnik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-10" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-12" value="Upravljanje korisnicima,&lt;div style=&quot;font-size: 9px;&quot;&gt;upravljanje podacima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;održavanje sustava&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-11">
+          <mxGeometry x="-0.0046" y="1" relative="1" as="geometry">
+            <mxPoint x="67" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-10" value="Administrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-13" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-16" value="Pohranjeni korisnički podaci,&lt;div style=&quot;font-size: 9px;&quot;&gt;podaci o obrocima,&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;nutritivne informacije&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-14">
+          <mxGeometry x="0.0961" y="2" relative="1" as="geometry">
+            <mxPoint x="-14" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-13" value="Baza podataka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-R456dAzKDUjYlajnxBs-18" target="-R456dAzKDUjYlajnxBs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-22" value="Nutritivne informacije" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="-R456dAzKDUjYlajnxBs-20">
+          <mxGeometry x="0.02" y="-4" relative="1" as="geometry">
+            <mxPoint y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-R456dAzKDUjYlajnxBs-18" value="Nutritivni API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xCNYViDKC2PUMvEkqROE" name="Page-2">
+    <mxGraphModel dx="840" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-1" target="ZZIWhuJlwjc1xdU3AUtc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-4" value="Korisnički podaci,&lt;div&gt;odabir funkcija&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-3">
+          <mxGeometry x="-0.037" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-1" target="ZZIWhuJlwjc1xdU3AUtc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-12" value="Unos informacija o&amp;nbsp;&lt;div&gt;konzumiranim obrocima&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-11">
+          <mxGeometry x="0.2718" y="1" relative="1" as="geometry">
+            <mxPoint y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-1" value="Korisnik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-2" target="ZZIWhuJlwjc1xdU3AUtc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-7" value="Pristup sustavu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-5">
+          <mxGeometry x="-0.093" y="2" relative="1" as="geometry">
+            <mxPoint y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-2" target="ZZIWhuJlwjc1xdU3AUtc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-2" value="Registracija i prijava korisnika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-8" target="ZZIWhuJlwjc1xdU3AUtc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-14" value="Pregled svih unosa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-13">
+          <mxGeometry x="-0.4011" y="1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-8" target="ZZIWhuJlwjc1xdU3AUtc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-21" value="Dohvaćanje nutritivnih&amp;nbsp;&lt;div&gt;informacija&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-20">
+          <mxGeometry x="-0.0432" y="3" relative="1" as="geometry">
+            <mxPoint x="127" y="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-8" value="Unos podataka o obrocima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-15" target="ZZIWhuJlwjc1xdU3AUtc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.4000000000001" y="355.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-15" value="Interakcija s nutritivnim API-jem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-17" target="ZZIWhuJlwjc1xdU3AUtc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-19" value="Upravlja korisničkim&amp;nbsp;&lt;div&gt;računima&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-18">
+          <mxGeometry x="-0.023" y="1" relative="1" as="geometry">
+            <mxPoint y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-17" target="ZZIWhuJlwjc1xdU3AUtc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-29" value="Upravlja podacima" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-28">
+          <mxGeometry x="-0.1376" y="-2" relative="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-17" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-22" value="Pregled i analiza dnevnika prehrane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.082;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-22" target="ZZIWhuJlwjc1xdU3AUtc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-31" value="Izvještaj o prehrani" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZZIWhuJlwjc1xdU3AUtc-30">
+          <mxGeometry x="-0.4695" relative="1" as="geometry">
+            <mxPoint x="10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZZIWhuJlwjc1xdU3AUtc-32" target="ZZIWhuJlwjc1xdU3AUtc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZIWhuJlwjc1xdU3AUtc-32" value="Baza podataka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
